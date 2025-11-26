@@ -1,0 +1,17 @@
+{
+    "name": "alexis/my-weekly-allowance",
+    "description": "Gestion d'argent de poche pour adolescents en TDD",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alexis\\MyWeeklyAllowance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bagharia",
+            "email": "hu.alexis@hotmail.com"
+        }
+    ],
+    "require": {}
+}
