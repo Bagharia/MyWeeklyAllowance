@@ -13,5 +13,7 @@
             "email": "hu.alexis@hotmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
 }
